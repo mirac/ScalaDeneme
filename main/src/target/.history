@@ -1,0 +1,25 @@
+run
+run Main
+help
+Main
+run Main.scala
+exit
+run
+exit
+run
+exit
+run
+cls
+clear
+help
+about
+run
+println("deneme")
+run
+exit
+run
+exit
+run
+exit
+run
+exit
