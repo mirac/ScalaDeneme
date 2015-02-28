@@ -9,6 +9,7 @@ object Hi {
 
   }
 
+  // factorial calculating
   def factorial(n: Int): Int = {
     if(n <= 1)
       1
